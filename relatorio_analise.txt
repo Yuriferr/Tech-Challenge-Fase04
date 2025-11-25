@@ -1,0 +1,21 @@
+RELATORIO FINAL DE MONITORAMENTO DE VIDEO
+=======================================
+Total de Frames Analisados: 3326
+Total de Anomalias (Movimentos Bruscos): 79
+
+--- ATIVIDADES DETECTADAS (Contexto) ---
+[ 69.5% ] Conversando / Ocioso (2313 frames)
+[ 15.6% ] Trabalhando (PC) (520 frames)
+[ 5.4% ] Lendo / Estudando (180 frames)
+[ 3.3% ] Usando Celular (110 frames)
+[ 3.0% ] Bebendo / Pausa (100 frames)
+[ 2.8% ] Interacao Social (94 frames)
+[ 0.3% ] Analisando... (9 frames)
+
+--- EMOCOES PREDOMINANTES ---
+[ 32.5% ] neutral
+[ 25.3% ] sad
+[ 16.5% ] happy
+[ 13.3% ] fear
+[ 7.5% ] surprise
+[ 4.9% ] angry
